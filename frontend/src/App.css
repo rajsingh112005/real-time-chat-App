@@ -1,0 +1,9 @@
+/* App-specific styles */
+.app {
+  min-height: 100vh;
+}
+
+/* Custom component styles */
+.border-0\.5 {
+  border-width: 0.5px;
+}
